@@ -116,6 +116,3 @@ function printInvoice(guaranteePeriod, stringToEngraving, deliveryRequired, deli
 }
 
 printInvoice(2, 'Петру! с большой и страстной, пламенной любовью!', 'Да', 'Крабовидная туманность');
-
-
-
